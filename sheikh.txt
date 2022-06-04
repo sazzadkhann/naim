@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 one
 two
+
+one-2
+two 
+>>>>>>> main
 three
